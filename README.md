@@ -1,0 +1,2 @@
+# FullscreenResizer
+Android fullscreen resizer
